@@ -5,7 +5,6 @@ now dive!
 
 There are couple of things you need to do in order to run this simple project.<br>
 1. Its utter important to check  `requirements.txt`  first and add your missing packages/modules.
-<br>
 Ofcourse, if you want to install all the packages/modules from `requirements.txt` , you can use:<br> 
 
 >$ pip install -r requirements.txt --no-index --find-links file:///tmp/packages
